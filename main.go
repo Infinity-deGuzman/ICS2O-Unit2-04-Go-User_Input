@@ -1,14 +1,14 @@
 // Created by: Infinity de Guzman
 // Created on: May 2021
 //
-// This program registers your address
+// This program registers your the dimensions of a rectangle
 
 package main
 
 import "fmt"
 
 func main() {
-	// This function prints the address
+	// This function prints the rectangle's area and perimeter
 	var length int
 	var width int
 
