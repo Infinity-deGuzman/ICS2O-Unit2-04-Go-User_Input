@@ -22,6 +22,6 @@ func main() {
 
 	// output
 	fmt.Println("The area is: ", (length * width), "cm²")
-  fmt.Println("The perimeter is: ", (2 * (length + width)), "cm")
+	fmt.Println("The perimeter is: ", (2 * (length + width)), "cm")
 	fmt.Println("\nDone.")
 }
